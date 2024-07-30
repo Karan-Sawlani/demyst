@@ -1,0 +1,4 @@
+python-dotenv==1.0.1
+faker==26.0.0
+pyspark==3.5.1
+black==24.4.2

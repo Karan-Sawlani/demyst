@@ -1,0 +1,5 @@
+problem1/.env
+problem1/test/.pytest_cache
+.idea
+problem2/.env
+problem2/test/.pytest_cache
